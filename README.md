@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Abhishekgoyal007](https://github.com/Abhishekgoyal007)
 
-- 💬 Ask me about **I'm an enthusiastic engineering student with a strong passion for continuous learning and a deep interest in technology. My pursuit of engineering is driven by a desire for exploration and constant growth. Despite being from Rajasthan, I bring a diverse perspective to my work. Beyond academics, I also do martial arts. With a steadfast commitment to embracing new challenges and fostering innovation, I'm ready to contribute meaningfully in the field of engineering while striving for excellence in all my endeavour’s.**
+- 💬 Ask me about Web development, Technologies, Coding
 
 - 📫 How to reach me **abhishekgoyalashok@gmail.com**
 
