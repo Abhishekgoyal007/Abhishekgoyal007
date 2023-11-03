@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **TCET ERP backend**
 
-- 🌱 I’m currently learning **Web development, AI, Machine learning, programming languages like C++, python and Technology of making Drones**
+- 🌱 I’m currently learning **Web development, Data science, AI, Machine learning, programming languages like C++, python and Technology of making Drones**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Abhishekgoyal007](https://github.com/Abhishekgoyal007)
 
