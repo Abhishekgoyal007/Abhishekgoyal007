@@ -1,6 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently working on TCET ERP backend<br><br>🌱 I’m currently learning Web development, Data science, AI, Machine learning, programming languages like C++, python and Technology of making Drones<br><br>👨‍💻 All of my projects are available at https://github.com/Abhishekgoyal007<br><br>💬 Ask me about Web development, Technologies, Coding, DSA<br><br>📫 How to reach me abhishekgoyalashok@gmail.com
 
+[![An image of @abhishekgoyal007's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/abhishekgoyal007)](https://holopin.io/@abhishekgoyal007)
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/abhishekgoyal) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/abhishekk_g7/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abhishek-goyal-00b713208/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://twitter.com/Abhishekg0007) 
