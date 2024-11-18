@@ -10,6 +10,8 @@ Hi there! 👋 I'm **Abhishek Goyal**, a passionate software developer and tech 
 
 🔗 **All My Projects:** [GitHub Profile](https://github.com/Abhishekgoyal007)
 
+## Hacktober Fest'23 👨🏻‍💻
+
 [![Holopin Profile](https://holopin.me/abhishekgoyal007)](https://holopin.io/@abhishekgoyal007)
 
 ---
@@ -61,12 +63,6 @@ Connect with me:
 
 ---
 
-## 📂 Featured Projects
-- **[Project Name](https://github.com/Abhishekgoyal007/project-repo):** A brief description of the project.
-- **[Another Project](https://github.com/Abhishekgoyal007/project-repo):** Another brief description.
-
----
-
 ## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=Abhishekgoyal007&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Abhishekgoyal007&theme=radical&hide_border=false)
@@ -76,12 +72,6 @@ Connect with me:
 ## 🏆 Achievements
 - **GitHub Trophies:**  
 ![](https://github-profile-trophy.vercel.app/?username=Abhishekgoyal007&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
----
-
-## ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ---
 
 ## 🔝 Top Contributed Repositories
