@@ -7,6 +7,7 @@
 💡 <b>Won Silver medal for scoring good grades</b><br>
 🚀 <b>I’m currently learning Next.js, React.js, AI/ML, AI Agents and TypeScript</b><br>
 </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Abhishekgoyal007&label=Profile%20views&color=265cfd&style=flat" alt="Abhishekgoyal" /> </p>
 
 ---
   
