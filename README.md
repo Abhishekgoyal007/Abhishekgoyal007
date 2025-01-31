@@ -9,6 +9,11 @@
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Abhishekgoyal007&label=Profile%20views&color=265cfd&style=flat" alt="Abhishekgoyal" /> </p>
 
+<div align="center">
+ <img src="https://github.com/AayushKarwa/AayushKarwa/blob/main/assests/coding.gif" alt="Coding GIF" />
+
+</div>
+
 ---
   
 # 🌐 Socials: 
