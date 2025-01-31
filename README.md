@@ -1,9 +1,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00FF00&center=true&vCenter=true&width=500&lines=AI/ML+Enthusiast;Blockchain+Learner;Hi!+There+👋&font=Montserrat" alt="Typing SVG">
 </p>
----
 <h2 align="center"> A Passionate Developer From INDIA 🌍</h2>
-
 <p align="center">
 🏆 <b>Shape Craft Runner Up( International Level)</b> <br>
 🥉 <b>Think Ml Department Level Top 3 ( AI/ML based hackathon)</b> <br>
