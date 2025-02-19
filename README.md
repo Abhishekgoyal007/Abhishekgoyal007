@@ -1,4 +1,4 @@
-<p align="center">
+[<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=32&color=00FF00&center=true&vCenter=true&width=500&lines=AI/ML+Enthusiast;Blockchain+Learner;Hi!+There+👋&font=Poppins" alt="Typing SVG">
 </p>
 
@@ -97,3 +97,4 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Abhishekgoyal007&show_icons=true&theme=radical" alt="GitHub Stats">
   <img src="https://streak-stats.demolab.com/?user=Abhishekgoyal007&theme=radical" alt="GitHub Streak">
 </p>
+](https://www.linkedin.com/in/abhishek-goyal-00b713208/)
