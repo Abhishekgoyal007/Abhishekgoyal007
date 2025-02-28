@@ -1,4 +1,4 @@
-[<p align="center">
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=32&color=00FF00&center=true&vCenter=true&width=500&lines=AI/ML+Enthusiast;Blockchain+Learner;Hi!+There+👋&font=Poppins" alt="Typing SVG">
 </p>
 
