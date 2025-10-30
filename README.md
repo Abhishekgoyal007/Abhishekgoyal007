@@ -36,7 +36,6 @@ const abhishek = {
 ```
 
 ### 🎯 What I'm Currently Working On
-- 🎮 Building **Web3 multiplayer games** with real-time features
 - ⚡ Developing **full-stack applications** with React, Node.js & MongoDB
 - 🔗 Implementing **smart contracts** and blockchain integrations
 - 🤖 Exploring **AI/ML** applications in web development
