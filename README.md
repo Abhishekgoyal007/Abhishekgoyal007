@@ -17,30 +17,6 @@
 
 I'm a **Full Stack & Web3 Developer** from India specializing in building scalable web applications and blockchain-based solutions. Currently exploring the intersection of **AI/ML** and **decentralized technologies**.
 
-```javascript
-const abhishek = {
-    location: "Mumbai, India 🇮🇳",
-    education: "BE in Electronics & Computer Science | CGPA: 8.9",
-    code: ["JavaScript", "TypeScript", "Python", "C/C++", "Solidity"],
-    technologies: {
-        frontend: ["React.js", "Next.js", "TailwindCSS"],
-        backend: ["Node.js", "Express.js", "Socket.io"],
-        database: ["MongoDB", "MySQL"],
-        web3: ["Smart Contracts", "Shape Network", "Wallet Integration"],
-        tools: ["Git", "Docker", "Postman", "Cloudinary", "Mapbox"]
-    },
-    currentFocus: ["Web3 Gaming", "Real-time Applications", "AI/ML Integration"],
-    architecture: ["Microservices", "WebSockets", "RESTful APIs"],
-    askMeAbout: ["Web3", "Full Stack", "Real-time Apps", "Blockchain"]
-};
-```
-
-### 🎯 What I'm Currently Working On
-- ⚡ Developing **full-stack applications** with React, Node.js & MongoDB
-- 🔗 Implementing **smart contracts** and blockchain integrations
-- 🤖 Exploring **AI/ML** applications in web development
-- 📚 Contributing to **open source** and mentoring developers
-
 ---
 
 ## 🏆 Achievements & Recognition
@@ -65,7 +41,6 @@ const abhishek = {
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 
 ### Frontend Development
 ![React](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -79,12 +54,10 @@ const abhishek = {
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 ### Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ### Web3 & Blockchain
 ![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
