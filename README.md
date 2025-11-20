@@ -17,19 +17,7 @@
 
 ## <div align='center'>💻 Tech Stack</div>
 
-**Languages:** `JavaScript` `TypeScript` `Python` `C` `C++`
-
-**Frontend:** `React.js` `Next.js` `TailwindCSS` `Bootstrap` `HTML5` `CSS3`
-
-**Backend:** `Node.js` `Express.js` `Socket.io`
-
-**Database:** `MongoDB` `MySQL`
-
-**Web3:** `Web3.js` `Ethereum`
-
-**AI/ML:** `Pandas` `NumPy` `Scikit-Learn` `TensorFlow`
-
-**Tools:** `Git` `GitHub` `Docker` `Postman` `VS Code` `Cloudinary`
+**Languages:** `JavaScript` `TypeScript` `Python` `C` `C++` | **Frontend:** `React.js` `Next.js` `TailwindCSS` `Bootstrap` `HTML5` `CSS3` | **Backend:** `Node.js` `Express.js` `Socket.io` | **Database:** `MongoDB` `MySQL` | **Web3:** `Web3.js` `Ethereum` | **AI/ML:** `Pandas` `NumPy` `Scikit-Learn` `TensorFlow` | **Tools:** `Git` `GitHub` `Docker` `Postman` `VS Code` `Cloudinary`
 
 ---
 
